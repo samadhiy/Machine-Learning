@@ -6,15 +6,11 @@ This repository contains my practical work and lab exercises completed as part o
 
 ## 📁 Repository Structure
 
-(./Lab_01.ipynb)– Introduction to Machine Learning concepts and basic implementations  
-
-(./Lab_02.ipynb) – Advanced techniques and model building  
-
-(./lab_01.py) – Python implementation of lab exercises  
-
-(./lab_sheet_3.py) – Additional problem-solving tasks  
-
-(./22ug2_0013lab_sheet_2.py) – Lab sheet 2 solutions  
+- [Lab_01.ipynb](./Lab_01.ipynb)  
+- [Lab_02.ipynb](./Lab_02.ipynb) 
+- [lab_01.py](./lab_01.py)  
+- [lab_sheet_3.py](./lab_sheet_3.py) 
+- [22ug2_0013lab_sheet_2.py](./22ug2_0013lab_sheet_2.py) 
 
 ---
 
@@ -50,11 +46,9 @@ This repository contains my practical work and lab exercises completed as part o
 
 This repository is created to:
 
-* Practice Machine Learning concepts
-  
-* Build a strong foundation in data science
-  
-* Showcase my learning progress
+- Practice Machine Learning concepts
+- Build a strong foundation in data science
+- Showcase my learning progress
 
   
 👩‍💻 Author
